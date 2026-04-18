@@ -82,3 +82,6 @@ kiro_error.*
 
 # 本地数据文件
 account_manager.db
+
+# Windows 本地脚本启动器
+/scripts/*.exe
